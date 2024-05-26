@@ -58,7 +58,7 @@ This API allows non-profit organizations to manage donations, donor profiles, fu
         "campaignCountry": "Country",
         "campaignGoalAmount": 10000.00
       },
-      ...
+      
     ]
     ```
   - **204 No Content:** No campaigns found
