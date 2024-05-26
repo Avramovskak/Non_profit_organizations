@@ -123,7 +123,7 @@ This API allows non-profit organizations to manage donations, donor profiles, fu
   - **204 No Content:** Successfully deleted
   - **404 Not Found:** Campaign not found
     
-## Repeat Similar CRUD Operations for Donations, Donors, and Events
+## Repeat Similar CRUD Operations for Donations, Donors and Events
 
 ### Donations Endpoints
 - **POST /donations:** Create a new donation
