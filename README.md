@@ -4,6 +4,7 @@
 This API allows non-profit organizations to manage donations, donor profiles, fundraising campaigns, and event planning. It facilitates efficient tracking and management of all related activities.
 
 ## Base URL
+http://localhost:8080/api
 
 ## Endpoints
 
